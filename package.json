@@ -5,13 +5,13 @@
   "keywords": [
     "epub"
   ],
-  "homepage": "https://github.com/pabgarja/epub3-parser",
+  "homepage": "https://github.com/BinPar/epub3-parser",
   "bugs": {
-    "email": "pabgarja@gmail.com"
+    "email": "soporte@binpar.com"
   },
-  "author": "Pablo Gargallo <pabgarja@gmail.com> (http://twitter.com/pablogargallo)",
+  "author": "BinPar Team S.L <soporte@binpar.com>",
   "dependencies": {
-    "node-zip": ">=0.0.2",
+    "node-zip": "^1.1.1",
     "xml2js": ">=0.0.1",
     "request": "~2.12.0",
     "eyes": "~0.1.8"
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pabgarja/epub3-parser.git"
+    "url": "git://github.com/BinPar/epub3-parser.git"
   },
   "license": "BSD"
 }
