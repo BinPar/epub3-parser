@@ -1,5 +1,8 @@
-epub-parser
+@binpar/epub3-parser
 ===========
+
+This module comes from https://github.com/pabgarja/epub3-parser npm module.
+
 
 # What It Does
 
@@ -19,7 +22,7 @@ Eyes is also required but you can use console instead if you want.
 
 # Installing
 
-    npm install epub3-parser
+    npm install --save @binpar/epub3-parser
 
 # Usage
 
@@ -29,7 +32,7 @@ In a nutshell though, it's as simple as this:
 
 ```javascript
 
-var epubParser = require('epub3-parser');
+var epubParser = require('@binpar/epub3-parser');
 
 epubParser.open(epubFullPath, function (err, epubData) {
 
