@@ -1,6 +1,6 @@
 {
   "name": "@binpar/epub3-parser",
-  "version": "0.2.2",
+  "version": "0.2.6",
   "description": "Epub parser for EPUB v2 and v3",
   "keywords": [
     "epub"
